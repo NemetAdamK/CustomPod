@@ -1,0 +1,16 @@
+PODS:
+  - CustomView (0.1.0)
+
+DEPENDENCIES:
+  - CustomView (from `../`)
+
+EXTERNAL SOURCES:
+  CustomView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomView: dc56d03bd1bcf9dabb42a806b041f54ee38ab8de
+
+PODFILE CHECKSUM: 76026d05b0abd9260597b28e25bf07e8d60069e5
+
+COCOAPODS: 1.10.1
